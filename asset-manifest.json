@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/huzaifa-react-portfolio/static/css/main.b460da32.css",
+    "main.js": "/huzaifa-react-portfolio/static/js/main.fd49ead7.js",
+    "static/js/787.4dff6867.chunk.js": "/huzaifa-react-portfolio/static/js/787.4dff6867.chunk.js",
+    "static/media/2.jpg": "/huzaifa-react-portfolio/static/media/2.ca8708c958769ca4a734.jpg",
+    "static/media/1.jpg": "/huzaifa-react-portfolio/static/media/1.86d8a8b841feaf91cf6b.jpg",
+    "static/media/0.jpg": "/huzaifa-react-portfolio/static/media/0.8b1af9407dec15b61015.jpg",
+    "static/media/3.jpg": "/huzaifa-react-portfolio/static/media/3.6ca81a23cf099ff07e5f.jpg",
+    "index.html": "/huzaifa-react-portfolio/index.html",
+    "main.b460da32.css.map": "/huzaifa-react-portfolio/static/css/main.b460da32.css.map",
+    "main.fd49ead7.js.map": "/huzaifa-react-portfolio/static/js/main.fd49ead7.js.map",
+    "787.4dff6867.chunk.js.map": "/huzaifa-react-portfolio/static/js/787.4dff6867.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b460da32.css",
+    "static/js/main.fd49ead7.js"
+  ]
+}
