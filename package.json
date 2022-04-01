@@ -4,7 +4,7 @@
     "private": true,
     "homepage": "http://Huzaifa-Mohammed.github.io/huzaifa-react-portfolio",
     "dependencies": {
-        "@fortawesome/react-fontawesome": "^0.1.18",
+
         "@testing-library/jest-dom": "^5.16.2",
         "@testing-library/react": "^12.1.4",
         "@testing-library/user-event": "^13.5.0",
