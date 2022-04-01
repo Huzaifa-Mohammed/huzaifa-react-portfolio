@@ -57,7 +57,7 @@ body {
     letter-spacing: .1em;
     background: var(--light);
     color: var(--dark);
-    font-family: 'Poiret One', cursive;
+    /* font-family: 'Poiret One'; */
 }
 
 h1,
