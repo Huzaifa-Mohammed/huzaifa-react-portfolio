@@ -3,7 +3,7 @@ import { SocialIcon } from 'react-social-icons';
 // import Projects from "../Projects";
 
 function Container ({onClose,currentPhoto}){
-  const {name, category, description,index,link} = currentPhoto
+  const {name, category, description,index,link , GitRepo} = currentPhoto
     return (
 
   <div className="modalBackdrop">
@@ -13,7 +13,9 @@ function Container ({onClose,currentPhoto}){
     <p className="modalTitle">
       {description}
     </p>
-                        <SocialIcon className="links1" url="https://github.com/Huzaifa-Mohammed" />
+                    <p className="modalTitle"> 
+                       <SocialIcon className="links1" url={GitRepo} /> Repo 
+                      </p>   
     <div className="button p-2">
                      <a className="links2" href={link}>{name}</a> <h4 className="modalTitle"> Click Link For Deployed Application</h4>
                         </div>
